@@ -100,7 +100,6 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   
@@ -144,50 +143,4 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
  ------
 
 
-</p>
-<!-- Languages and Tools -->
-<br>
-<!-- GitHub Stats -->
 
-<div align="left">
-
-<!-- GitHub Stats -->
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshutoshDM1&show_icons=true&locale=en&layout=compact&hide_border=true&theme=holi" alt="ashutosh" />
-</p>
-<!-- GitHub Stats more -->
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=AshutoshDM1&show_icons=true&locale=en&hide_border=true&theme=holi" alt="ashutosh" />
-</p>
-<!-- Activity Graph -->
-
-<p>
-<img src="https://streak-stats.demolab.com/?user=AshutoshDM1&theme=light&hide_border=true">
-</p>
-<!-- language Graph -->
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=c34e365f-01c3-4480-a437-d477dc0aa67b&layout=compact&theme=holi&range=all_time"/>
-</p>
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshutoshDm1&bg_color=000000&color=2ea4ff&line=0593ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
----
-
-Anything inside ``` is treated as **code**, not as real content.
-
----
-## 💹 Trading Terminal
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF9C&size=18&center=true&vCenter=true&width=600&lines=Booting+Quant+Engine...;Loading+AI+Models...;Syncing+Market+Data...;Risk+Systems+Online...;STATUS:+OPERATIONAL+🚀" />
-</p>
-
----
-⚡ Real TradingView widgets  
-📊 Live crypto/stock tickers  
-🧬 Neon cyberpunk colors  
-💹 PnL heatmaps  
-🧠 Animated terminal intro  
