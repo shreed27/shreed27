@@ -2,15 +2,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead">
 
 <!-- WakaTime Badge -->
-<p align="right">
+## <p align="right">
     <a href="https://wakatime.com/@c34e365f-01c3-4480-a437-d477dc0aa67b">
         <img src="https://wakatime.com/badge/user/c34e365f-01c3-4480-a437-d477dc0aa67b.svg" alt="Total time coded since Jun 29 2024" />
     </a>
-</p>
+</p> ##
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center"><em>I'm a versatile developer skilled in Frontend, Backend, APIs and DevOps creating engaging and animated websites and digital experiences. 🇮🇳</em></h3>
+<h1 align="center">Hi 👋, I'm Shreed Shrivastava</h1>
+<h3 align="center"><em>⚡ I'm Building systems across AI, quantitative finance & software engineering 🇮🇳</em></h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -22,10 +22,10 @@
 <!-- About Me -->
 <ul>
     <li> <strong> 🧠 I’m a AI/Web3 Developer + Qaunt Trader</strong></li>
-    <li> <strong> 😊 Generated 165.6% returns using macro + order-flow strategies </strong></li>
+    <li> <strong> 😊 Generated 165.6% returns using order-flow strategies </strong></li>
     <li> <strong> ✨ Built cloud-native ML systems on GCP (Vertex AI, GKE) </strong></li>
     <li> <strong> 🤖 OCR, LLMs, RAG, Agentic AI, Trading Infra </strong></li>
-    <li> <strong> 🏆 Multiple National Hackathon Winner | 4x Harvard HPAIR Invitee  </strong></li>
+    <li> <strong> 🏆 Multiple National Hackathon Win's | 4x Harvard HPAIR Invitee  </strong></li>
     <li> 📫 How to reach me <strong>iamshreedshrivastava@gmail.com</strong></li>
 </ul>
 
@@ -35,19 +35,17 @@
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashutosh-tiwari-8931b82b8" target="_blank">
+  <a href="https://www.linkedin.com/in/shreedshrivastava/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/AshutoshDM_1" target="_blank">
+  <a href="https://x.com/shreed_27" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X" />
   </a>
-  <a href="https://elitedev.notion.site" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Notion&logo=notion&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Notion" />
   </a>
-    <a href="mailto:ashutosh0tiwari@gmail.com" target="_blank">
+    <a href="mailto:iamshreedshrivastava@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
   </a>
-  <a href="https://elitedev.tech" target="_blank">
+  <a href="https://shreedshrivastava.framer.website/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio" />
   </a>
   
