@@ -161,7 +161,13 @@
 Anything inside ``` is treated as **code**, not as real content.
 
 ---
+## 💹 Trading Terminal
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF9C&size=18&center=true&vCenter=true&width=600&lines=Booting+Quant+Engine...;Loading+AI+Models...;Syncing+Market+Data...;Risk+Systems+Online...;STATUS:+OPERATIONAL+🚀" />
+</p>
+
+---
 ⚡ Real TradingView widgets  
 📊 Live crypto/stock tickers  
 🧬 Neon cyberpunk colors  
