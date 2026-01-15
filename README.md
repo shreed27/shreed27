@@ -57,7 +57,29 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
 
 </p>
 
----
+----------
+
+### 🤖 AI & Automation Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4B6BFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flowise-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AutoGPT-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+</p>
+
+----------
 
 ### ⚙️ Backend & Systems
 
@@ -84,8 +106,33 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
   
 </p>
 
--------
+---
 
+### 🤖 AI / ML / Data
+<p>
+ <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4B6BFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Whisper-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-337733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LightGBM-0A1A2F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QuantLib-004D40?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backtrader-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TA--Lib-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6E5DE7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flowise-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dify-000000?style=for-the-badge" />
+</p>
+
+---
 ### 📈 Quant / Trading Systems
 <p>
   <img src="https://img.shields.io/badge/Market_Microstructure-1A237E?style=for-the-badge" />
@@ -94,40 +141,8 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
   <img src="https://img.shields.io/badge/Risk_Models_(VaR,_Greeks)-B71C1C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backtesting_Engines-0D47A1?style=for-the-badge" />
 </p>
+ ------
 
----
----
-
-### 🤖 AI / ML / Data
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs_&_RAG-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OCR_&_Computer_Vision-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Time_Series_Analysis-111111?style=for-the-badge" />
-</p>
-
----
-
-### 🤖 AI & Automation Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LlamaIndex-4B6BFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flowise-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AutoGPT-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
-</p>
 
 </p>
 <!-- Languages and Tools -->
