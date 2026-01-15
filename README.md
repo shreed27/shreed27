@@ -70,15 +70,29 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
   <img src="https://img.shields.io/badge/System_Design-455A64?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Low_Latency_Systems-263238?style=for-the-badge" />
 </p>
- ------
 
-### 📊 Quant / Trading Systems
+ ------
+ ### Cloud & DevOps
+
 <p>
-  <img src="https://img.shields.io/badge/Market_Microstructure-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Statistical_Arbitrage-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Derivatives_Pricing-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Risk_Models_(VaR,_Greeks)-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backtesting_Engines-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  
+</p>
+
+-------
+
+### 📈 Quant / Trading Systems
+<p>
+  <img src="https://img.shields.io/badge/Market_Microstructure-1A237E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical_Arbitrage-004D40?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Derivatives_Pricing-311B92?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Risk_Models_(VaR,_Greeks)-B71C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backtesting_Engines-0D47A1?style=for-the-badge" />
 </p>
 
 ---
@@ -95,43 +109,26 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
 
 ---
 
-### Database & ORM
+### 🤖 AI & Automation Tools
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
-  <img src="https://img.shields.io/badge/Bolt.new-FF6154?style=for-the-badge&logo=bolt&logoColor=white" alt="Bolt.new" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4B6BFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flowise-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AutoGPT-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+</p>
+
 </p>
 <!-- Languages and Tools -->
 <br>
