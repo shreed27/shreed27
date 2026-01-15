@@ -7,7 +7,9 @@
 <h3 align="center"><em>⚡ I'm Building systems across AI, quantitative finance & software engineering 🇮🇳</em></h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF9C&size=18&center=true&vCenter=true&width=600&lines=Booting+Quant+Engine...;Loading+AI+Models...;Syncing+Market+Data...;Risk+Systems+Online...;STATUS:+OPERATIONAL+🚀" />
+</p>
 <!-- GitHub Profile Views -->
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=AshutoshDM1&color=blueviolet" alt="ashutosh" />
