@@ -21,10 +21,12 @@
 
 <!-- About Me -->
 <ul>
-    <li>🌱 I’m currently learning <strong>DevOps and GenAI</strong></li>
-    <li>😊 Have interest to learn <strong>Web3, animation using motion and design</strong></li>
-    <li>✨ Next year aim to <strong>GSOC and open source contribution</strong></li>
-    <li>📫 How to reach me <strong>ashutosh0tiwari@gmail.com</strong></li>
+    <li> <strong> 🧠 I’m a AI/Web3 Developer + Qaunt Trader</strong></li>
+    <li> <strong> 😊 Generated 165.6% returns using macro + order-flow strategies </strong></li>
+    <li> <strong> ✨ Built cloud-native ML systems on GCP (Vertex AI, GKE) </strong></li>
+    <li> <strong> 🤖 OCR, LLMs, RAG, Agentic AI, Trading Infra </strong></li>
+    <li> <strong> 🏆 Multiple National Hackathon Winner | 4x Harvard HPAIR Invitee  </strong></li>
+    <li> 📫 How to reach me <strong>iamshreedshrivastava@gmail.com</strong></li>
 </ul>
 
 <!-- Connect with Me -->
