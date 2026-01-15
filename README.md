@@ -65,12 +65,11 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Message_Queues-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System_Design-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Low_Latency_Systems-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Message_Queues-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-1976D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-455A64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Low_Latency_Systems-263238?style=for-the-badge" />
 </p>
-
  ------
 
 ### 📊 Quant / Trading Systems
