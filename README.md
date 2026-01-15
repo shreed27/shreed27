@@ -145,10 +145,10 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreed27&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreed27&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreed27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreed27&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreed27&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreed27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 </p>
