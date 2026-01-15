@@ -1,12 +1,6 @@
 <!-- Header Image -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead">
 
-<!-- WakaTime Badge -->
-## <p align="right">
-    <a href="https://wakatime.com/@c34e365f-01c3-4480-a437-d477dc0aa67b">
-        <img src="https://wakatime.com/badge/user/c34e365f-01c3-4480-a437-d477dc0aa67b.svg" alt="Total time coded since Jun 29 2024" />
-    </a>
-</p> ##
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Shreed Shrivastava</h1>
@@ -160,3 +154,18 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshutoshDm1&bg_color=000000&color=2ea4ff&line=0593ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+## 💹 Trading Terminal
+
+```bash
+> booting quant-engine v5.0...
+> syncing market data...
+> loading alpha models...
+> risk systems online...
+> STATUS: OPERATIONAL 🚀
+
+📈 Market Signal Dashboard
+<p align="center"> <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['Mon','Tue','Wed','Thu','Fri'],datasets:[{label:'Alpha Signal',data:[2,5,3,8,10]}]}}" width="45%" /> <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Equity','FX','Crypto','Commodities'],datasets:[{label:'PnL',data:[12,8,15,5]}]}}" width="45%" />
+ </p>
