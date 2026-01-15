@@ -202,6 +202,13 @@ Copy **this exact Trading Section** and **replace** the old one in your README:
 
 ---
 
+[██████████] Statistical Arbitrage  
+[█████████░] Market Microstructure  
+[█████████░] Derivatives Pricing  
+[████████░░] Risk & VaR Models  
+[███████░░░] AI Signal Engines  
+
+
 ### 🧠 Quant Engine Status
 
 ```diff
