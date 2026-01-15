@@ -59,6 +59,20 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
 
 ---
 
+### ⚙️ Backend & Systems
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Message_Queues-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Low_Latency_Systems-111111?style=for-the-badge" />
+</p>
+
+ ------
+
 ### 📊 Quant / Trading Systems
 <p>
   <img src="https://img.shields.io/badge/Market_Microstructure-111111?style=for-the-badge" />
@@ -69,22 +83,18 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
 </p>
 
 ---
+---
 
-### Backend & Runtime
-
+### 🤖 AI / ML / Data
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websockets&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/betterauth-010101?style=for-the-badge&logo=betterauth&logoColor=white" alt="betterauth" />
+  <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs_&_RAG-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR_&_Computer_Vision-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Time_Series_Analysis-111111?style=for-the-badge" />
 </p>
+
+---
 
 ### Database & ORM
 
