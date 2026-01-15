@@ -57,21 +57,18 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
 
 </p>
 
-### Frontend Development
+---
 
+### 📊 Quant / Trading Systems
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Zustand-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="Recoil" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Lenis-FF6B6B?style=for-the-badge&logo=lenis&logoColor=white" alt="Lenis" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadCN" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Market_Microstructure-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical_Arbitrage-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Derivatives_Pricing-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Risk_Models_(VaR,_Greeks)-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backtesting_Engines-111111?style=for-the-badge" />
 </p>
+
+---
 
 ### Backend & Runtime
 
