@@ -162,58 +162,8 @@ Anything inside ``` is treated as **code**, not as real content.
 
 ---
 
-## ✅ What you should paste instead (FIXED VERSION)
-
-Copy **this exact Trading Section** and **replace** the old one in your README:
-
----
-
-### 🔥 FIXED TRADING SECTION (RENDERS PROPERLY)
-
-```md
-## 💹 Trading Terminal
-
-> booting quant-engine v5.0...  
-> syncing market data...  
-> loading alpha models...  
-> risk systems online...  
-> **STATUS: OPERATIONAL 🚀**
-
----
-
-### 📊 Performance Matrix
-
-| Metric | Value |
-|--------|--------|
-| ROI | **+165.6%** |
-| Sharpe | **2.9** |
-| Sortino | **3.8** |
-| Max Drawdown | **-4.1%** |
-| Win Rate | **71%** |
-
----
-
-### 📈 Market Signal Dashboard
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['Mon','Tue','Wed','Thu','Fri'],datasets:[{label:'Alpha Signal',data:[2,5,3,8,10]}]}}" width="45%" />
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Equity','FX','Crypto','Commodities'],datasets:[{label:'PnL',data:[12,8,15,5]}]}}" width="45%" />
-</p>
-
----
-
-[██████████] Statistical Arbitrage  
-[█████████░] Market Microstructure  
-[█████████░] Derivatives Pricing  
-[████████░░] Risk & VaR Models  
-[███████░░░] AI Signal Engines  
-
-
-### 🧠 Quant Engine Status
-
-```diff
-+ Alpha Models: ACTIVE
-+ Risk Engine: STABLE
-+ Liquidity Flow: ANALYZING
-+ AI Signals: ONLINE
-- Emotional Trading: DISABLED
+⚡ Real TradingView widgets  
+📊 Live crypto/stock tickers  
+🧬 Neon cyberpunk colors  
+💹 PnL heatmaps  
+🧠 Animated terminal intro  
