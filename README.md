@@ -13,14 +13,14 @@
 src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20Jan%2015%2C%202026%2C%2009_26_51%20PM.png">
 <!-- GitHub Profile Views -->
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=AshutoshDM1&color=blueviolet" alt="ashutosh" />
+    <img src="https://komarev.com/ghpvc/?username=shreed271&color=blueviolet" alt="shreed27" />
 </p>
 
 <!-- About Me -->
 <ul>
     <li> <strong> 🧠 I’m a AI/Web3 Developer + Qaunt Trader</strong></li>
     <li> <strong> 😊 Generated 165.6% returns using order-flow strategies </strong></li>
-    <li> <strong> ✨ Built cloud-native ML systems on GCP (Vertex AI, GKE) </strong></li>
+    <li> <strong> ✨ Built cloud-native ML systems on GCP </strong></li>
     <li> <strong> 🤖 OCR, LLMs, RAG, Agentic AI, Trading Infra </strong></li>
     <li> <strong> 🏆 Multiple National Hackathon Win's | 4x Harvard HPAIR Invitee  </strong></li>
     <li> 📫 How to reach me <strong>iamshreedshrivastava@gmail.com</strong></li>
