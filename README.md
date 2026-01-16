@@ -141,17 +141,3 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
   <img src="https://img.shields.io/badge/Backtesting_Engines-0D47A1?style=for-the-badge" />
 </p>
  
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreed27&show_icons=true&theme=blue-green&hide_border=false&count_private=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreed27&layout=compact&theme=blue-green&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreed27&theme=react-dark"/>
-</p>
