@@ -147,14 +147,14 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lakshyeahh&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyeahh&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <div align="center">
-<a href="https://github.com/lakshyeahh">
+<a href="https://github.com/shreed27">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshyeahh&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshyeahh&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshyeahh&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lakshyeahh&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshyeahh&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreed27&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreed27&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreed27&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreed27&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreed27&theme=algolia" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyeahh&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shreed27&theme=react-dark"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
