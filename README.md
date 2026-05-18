@@ -38,7 +38,7 @@ src="https://raw.githubusercontent.com/shreed27/shreed27/main/ChatGPT%20Image%20
     <a href="mailto:iamshreedshrivastava@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
   </a>
-  <a href="https://shreedshrivastava.framer.website/" target="_blank">
+  <a href="https://shreedtech.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio" />
   </a>
   
